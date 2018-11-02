@@ -2,7 +2,7 @@
 
 
 ## gmailUpdate.py
-This script updates the number of emails in your gmail account using a raspberry pi GPIO pins and displays new emails on a 7 segment display .
+This script updates the number of emails in your gmail account using a raspberry pi GPIO pins, a 74HC595 shift register, and displays new emails on a 7 segment display.
 
 
 ### Automize the script on the raspberry pi to run every minute.
