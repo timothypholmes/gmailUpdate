@@ -1,6 +1,5 @@
 # gmailUpdate
 
-
 ## gmailUpdate.py
 This script updates the number of emails in your gmail account using a raspberry pi GPIO pins, a 74HC595 shift register, and displays new emails on a 7 segment display.
 
@@ -21,5 +20,7 @@ After downloading place the gmail file that come with the link above along with 
   
 2. Copy, paste, and exit using control x.
   > \* \* \* \* \* python /"PATH TO YOUR DIRECTORY"/gmailUpdate.py 
-  
-  
+ 
+### Hardware
+
+The following diagram shows how the 74HC595 shift register drives the 7 segment display.
